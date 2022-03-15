@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'DAW2-angular-tutorial-RFSF';
+  title = 'DAW2-RFSF-Tout of Heroes';
 }
